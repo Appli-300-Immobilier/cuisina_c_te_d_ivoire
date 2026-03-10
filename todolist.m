@@ -1,7 +1,7 @@
-# To-Do List for Cuisina C�te d'Ivoire Website
+# To-Do List for Cuisina Céte d'Ivoire Website
 
 ## Project Overview
-- **Company Name:** Cuisina C�te d'Ivoire
+- **Company Name:** Cuisina Céte d'Ivoire
 - **Directory:** cuisina_c_te_d_ivoire
 - **Address/Contact:** 
   - https://www.facebook.com/messages/t/cuisinaafrique/
@@ -21,7 +21,7 @@
 ### 2. Configuration
 - [ ] Update package.json:
   - Name: cuisina-c-te-d-ivoire  - Version: 0.1.0- [ ] Update index.html:
-  - Title: Cuisina C�te d'Ivoire  - Meta description: https://www.facebook.com/cuisinaafrique/directory_contact_info...
+  - Title: Cuisina Céte d'Ivoire  - Meta description: https://www.facebook.com/cuisinaafrique/directory_contact_info...
 ### 3. Branding & Content
 - [ ] **Logo:** 
   - Source: Create a placeholder logo  - Action: Copy to src/assets/logo.png (or svg).
@@ -37,7 +37,7 @@ theme.extend.colors.primary to match the brand.
 
 ### 4. Content Integration
 - [ ] **Home Page (src/pages/public/Home.jsx):
-  - Replace the hero title with "Cuisina C�te d'Ivoire".
+  - Replace the hero title with "Cuisina Céte d'Ivoire".
   - Update the subtitle with: "https://www.facebook.com/cuisinaafrique/directory_contact_info".
   - Update "Featured Products" if specific images/products are provided (currently using mock data).
 - [ ] **About Page (src/pages/public/About.jsx):
